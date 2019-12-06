@@ -1,0 +1,82 @@
+[
+  {
+    "key": "fr",
+    "latitude": 50.0988483,
+    "longitude": 8.6297658,
+    "name": "FR"
+  },
+  {
+    "key": "fr4",
+    "latitude": 50.0976752,
+    "longitude": 8.5851076,
+    "name": "FR4"
+  },
+  {
+    "key": "sp3",
+    "latitude": -23.4662556,
+    "longitude": -46.8654534,
+    "name": "SP3"
+  },
+  {
+    "key": "pak",
+    "latitude": 31.4519336,
+    "longitude": 74.3233426,
+    "name": "PAK"
+  },
+  {
+    "key": "ny2",
+    "latitude": 40.7128,
+    "longitude": 74.0060,
+    "name": "NY2"
+  },
+  {
+    "key": "munm",
+    "latitude": 19.0760,
+    "longitude": 72.8777,
+    "name": "MUNM"
+  },
+  {
+    "key": "lk1",
+    "latitude": 6.9264865,
+    "longitude": 79.959971,
+    "name": "LK1"
+  },
+  {
+    "key": "ki",
+    "latitude": 50.4019514,
+    "longitude": 30.3926098,
+    "name": "KI"
+  },
+  {
+    "key": "in3",
+    "latitude": 28.6248427,
+    "longitude": 77.376152,
+    "name": "IN3"
+  },
+  {
+    "key": "id1",
+    "latitude": -6.3047623,
+    "longitude": 107.0951862,
+    "name": "ID1"
+  },
+  {
+    "key": "hk2",
+    "latitude": 22.3193,
+    "longitude": 114.1694,
+    "name": "HK2"
+  },
+  {
+    "key": "ca1",
+    "latitude": 43.6508826,
+    "longitude": -79.3639686,
+    "name": "CA1"
+  },
+  {
+    "key": "co2",
+    "latitude": 4.6104894,
+    "longitude": -74.0761699,
+    "name": "CO2"
+  }
+  
+]
+
